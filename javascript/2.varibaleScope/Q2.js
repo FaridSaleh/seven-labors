@@ -8,13 +8,13 @@ function a() {
 }
 
 var b = function () {
-  console.log("c");
+  console.log("b");
 };
 
 let c = function () {
-  console.log("d");
+  console.log("c");
 };
 
 const d = () => {
-  console.log("b");
+  console.log("d");
 };
